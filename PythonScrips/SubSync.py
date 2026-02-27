@@ -10,7 +10,7 @@ Features:
 - Creates new files with `_synced` suffix
 
 Usage:
-    python sync_subtitles.py
+    python SubSync.py
 """
 import re
 from datetime import datetime, timedelta
